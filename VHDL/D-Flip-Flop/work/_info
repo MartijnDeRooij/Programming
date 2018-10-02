@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Programming/VHDL/PeriodicSignals
+Edff_async
+Z0 w1538386258
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Programming/VHDL/D-Flip-Flop
+Z4 8D:/Documents/Programming/VHDL/D-Flip-Flop/d_flip_flop.vhd
+Z5 FD:/Documents/Programming/VHDL/D-Flip-Flop/d_flip_flop.vhd
+l0
+L10
+Vohi1?=<IgPVPaeIo8[o?I0
+!s100 z_nP>HKcoLNOFa<c7nCzQ1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1538387133
+!i10b 1
+Z8 !s108 1538387133.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/D-Flip-Flop/d_flip_flop.vhd|
+Z10 !s107 D:/Documents/Programming/VHDL/D-Flip-Flop/d_flip_flop.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavior
+R1
+R2
+DEx4 work 9 dff_async 0 22 ohi1?=<IgPVPaeIo8[o?I0
+l20
+L19
+V[bTGd]folY91dINe`F?U]2
+!s100 eK7DSLbz@IFBTLJ=e@hBn2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etb_dff_async
+Z13 w1538386881
+R1
+R2
+R3
+Z14 8D:/Documents/Programming/VHDL/D-Flip-Flop/tb_d_flip_flop.vhd
+Z15 FD:/Documents/Programming/VHDL/D-Flip-Flop/tb_d_flip_flop.vhd
+l0
+L6
+VA8PEhT0HJndG232GiXm;n0
+!s100 1Y^bB>[WljnFS7K<CEF8b2
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/D-Flip-Flop/tb_d_flip_flop.vhd|
+Z17 !s107 D:/Documents/Programming/VHDL/D-Flip-Flop/tb_d_flip_flop.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+Z18 DEx4 work 12 tb_dff_async 0 22 A8PEhT0HJndG232GiXm;n0
+l33
+L11
+Z19 VOhG^K?b9?hMiMjHzC`[X93
+Z20 !s100 efMSJMEnDhzEQok6LjCGB1
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12

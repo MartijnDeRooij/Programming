@@ -1,0 +1,17 @@
+D:/Documents/Programming/VHDL/PeriodicSignals/PeriodicSignals.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/PeriodicSignals/PeriodicSignals.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PeriodicSignals
+-- Compiling architecture behavioral of PeriodicSignals
+
+} {} {}} D:/Documents/Programming/VHDL/PeriodicSignals/tb_PeriodicSignals.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/PeriodicSignals/tb_PeriodicSignals.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_PeriodicSignals
+-- Compiling architecture behave of tb_PeriodicSignals
+
+} {} {}}

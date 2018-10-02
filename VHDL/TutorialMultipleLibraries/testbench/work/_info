@@ -1,0 +1,45 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Documents/Programming/VHDL/TutorialMultipleLibraries/testbench
+Etest_counter
+Z1 w1475690574
+R0
+Z2 8D:/Documents/Programming/VHDL/TutorialMultipleLibraries/testbench/tcounter.vhd
+Z3 FD:/Documents/Programming/VHDL/TutorialMultipleLibraries/testbench/tcounter.vhd
+l0
+L10
+V5O?C:1R`X^K5XC5aS=C:83
+!s100 4H1USZMHB7cgmkGOZ:ClI0
+Z4 OV;C;10.5b;63
+32
+Z5 !s110 1537259561
+!i10b 1
+Z6 !s108 1537259561.000000
+Z7 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/TutorialMultipleLibraries/testbench/tcounter.vhd|
+Z8 !s107 D:/Documents/Programming/VHDL/TutorialMultipleLibraries/testbench/tcounter.vhd|
+!i113 1
+Z9 o-work work -2002 -explicit
+Z10 tExplicit 1 CvgOpt 0
+Aonly
+DEx4 work 12 test_counter 0 22 5O?C:1R`X^K5XC5aS=C:83
+l25
+L14
+V8H]:M?TSD9biWP0i:E_fk3
+!s100 GWn18Y`M^WdDSBha21A9n3
+R4
+32
+R5
+!i10b 1
+R6
+R7
+R8
+!i113 1
+R9
+R10
