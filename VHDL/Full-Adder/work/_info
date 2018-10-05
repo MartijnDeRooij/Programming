@@ -8,3 +8,237 @@ z2
 !i10f 100
 cModel Technology
 dC:/Users/Martijn/Documents/Quartus
+Eand_gate
+Z0 w1538759566
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Programming/VHDL/Full-Adder
+Z4 8D:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd
+Z5 FD:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd
+l0
+L4
+V=iI0?fjBZ]<F:@g?3G>Ye2
+!s100 ?^z>Tl8]O;_Z7:JhJ@Ddl0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1538763205
+!i10b 1
+Z8 !s108 1538763205.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd|
+Z10 !s107 D:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 =iI0?fjBZ]<F:@g?3G>Ye2
+l14
+L13
+Ve[Ki4DT`4B9:hMDkJEPU^2
+!s100 ;CJ:NUgT1Uica=M8[HFCg3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efull_adder
+Z13 w1538762093
+R1
+R2
+R3
+Z14 8D:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd
+Z15 FD:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd
+l0
+L7
+VR^5W;gi^BoH8fAM09Xz1F2
+!s100 mSO289NSQBOdUFWMGN`d72
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1538763204.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd|
+Z18 !s107 D:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 full_adder 0 22 R^5W;gi^BoH8fAM09Xz1F2
+l44
+L19
+VEnLHj1m^n9=B6`Y:Vd=GE3
+!s100 3j?BW3EPgOaIEVLRdCh>G1
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12
+Ehalf_adder
+Z19 w1538759900
+R1
+R2
+R3
+Z20 8D:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd
+Z21 FD:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd
+l0
+L4
+VMI4PH3Wn=z1d@RVA_d1a01
+!s100 O9Ef@:2fTd?NzRa4Y6PKG3
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd|
+Z23 !s107 D:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 half_adder 0 22 MI4PH3Wn=z1d@RVA_d1a01
+l34
+L14
+VYeU3AnEacn`_8A<6_=5eb2
+!s100 BTP];F1[9[??IeE_jg7PX1
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Eor_gate
+Z24 w1538763192
+R1
+R2
+R3
+Z25 8D:/Documents/Programming/VHDL/Full-Adder/or_gate.vhd
+Z26 FD:/Documents/Programming/VHDL/Full-Adder/or_gate.vhd
+l0
+L4
+V9::f9SD:i`zlF7?6hD:C63
+!s100 jJ>lFi7Z[eQdXiH:jBYoz2
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/or_gate.vhd|
+Z28 !s107 D:/Documents/Programming/VHDL/Full-Adder/or_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 7 or_gate 0 22 9::f9SD:i`zlF7?6hD:C63
+l14
+L13
+V2l891LmoR[W1S^zBk5>MG3
+!s100 H9c0DDog5GBTaVFHlYIJ;3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Etb_full_adder
+Z29 w1538761880
+R1
+R2
+R3
+Z30 8D:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd
+Z31 FD:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd
+l0
+L5
+VYoY`YkXQQdPEGzJVcFNj[3
+!s100 [P7EETXd>lne?JdDFQ>2z2
+R6
+32
+R7
+!i10b 1
+R8
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd|
+Z33 !s107 D:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 13 tb_full_adder 0 22 YoY`YkXQQdPEGzJVcFNj[3
+l30
+L9
+VTS=54d3J1GnC?LAWR]oFc2
+!s100 H^h5_[91C3>j_M2j@`cJ73
+R6
+32
+R7
+!i10b 1
+R8
+R32
+R33
+!i113 1
+R11
+R12
+Exor_gate
+Z34 w1538759574
+R1
+R2
+R3
+Z35 8D:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd
+Z36 FD:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd
+l0
+L4
+VX<@m@^ESRnfR2bP>6HLFE0
+!s100 FB1m_bVX[a29lV7[mPL>M3
+R6
+32
+R7
+!i10b 1
+R8
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd|
+Z38 !s107 D:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+Z39 DEx4 work 8 xor_gate 0 22 X<@m@^ESRnfR2bP>6HLFE0
+l14
+L13
+Z40 VH:8azdFQ21?A_D9SZCK[[1
+Z41 !s100 @Sg_<m>cNK<e0RCR[Z=VF3
+R6
+32
+R7
+!i10b 1
+R8
+R37
+R38
+!i113 1
+R11
+R12

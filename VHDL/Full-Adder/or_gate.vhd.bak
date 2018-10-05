@@ -1,0 +1,16 @@
+library ieee;
+use ieee.std_logic_1164.all; -- use of std_logic
+
+entity or_gate is
+    port ( 
+		inOr1 : in std_logic;     -- OR gate input 1
+		inOr2 : in std_logic;     -- OR gate input 2
+		-- In between in and outputs
+		outOr : out std_logic    -- OR gate output
+		);
+end entity or_gate;
+
+architecture Behavioral of or_gate is
+begin
+    outOr <= inOr1 or inOR1;    -- output OR gate
+end architecture Behavioral;

@@ -1,1 +1,41 @@
+D:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/Full-Adder/xor_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity xor_gate
+-- Compiling architecture Behavioral of xor_gate
 
+} {} {}} D:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/Full-Adder/Full_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture behave of full_adder
+
+} {} {}} D:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/Full-Adder/half_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture behave of half_adder
+
+} {} {}} D:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/Full-Adder/tb_Full_adder.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tb_Full_adder
+-- Compiling architecture behave of tb_Full_adder
+
+} {} {}} D:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Documents/Programming/VHDL/Full-Adder/and_gate.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture Behavioral of and_gate
+
+} {} {}}

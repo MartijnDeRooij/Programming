@@ -14,7 +14,7 @@ architecture behave of tb_Full_adder is
 			b		: in std_logic;
 			cin		: in std_logic;
 			-- space between inputs and outputs.
-			sumF		: out std_logic;
+			sum		: out std_logic;
 			coutF	: out std_logic
 		);
 	end component Full_adder;
@@ -23,7 +23,7 @@ architecture behave of tb_Full_adder is
 	signal b : std_logic := '0';
 	signal cin : std_logic := '0';
 	-- space between inputs and outputs.
-	signal sumF : std_logic := '0';
+	signal sum : std_logic := '0';
 	signal coutF	: std_logic  := '0';
 
 
@@ -33,7 +33,7 @@ begin
 		a => a,
 		b => b,
 		cin => cin, 
-		sumF => sumF,
+		sum => sum,
 		coutF => coutF
 	);
 	Data_Gen: process is -- to make the data more different.
