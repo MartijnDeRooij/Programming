@@ -1,0 +1,361 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Martijn/Documents/Quartus
+Eand_gate
+Z0 w1538759566
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Programming/VHDL/Full-Adder-Register
+Z4 8D:/Documents/Programming/VHDL/Full-Adder-Register/and_gate.vhd
+Z5 FD:/Documents/Programming/VHDL/Full-Adder-Register/and_gate.vhd
+l0
+L4
+V=iI0?fjBZ]<F:@g?3G>Ye2
+!s100 ?^z>Tl8]O;_Z7:JhJ@Ddl0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1538941584
+!i10b 1
+Z8 !s108 1538941583.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/and_gate.vhd|
+Z10 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 =iI0?fjBZ]<F:@g?3G>Ye2
+l14
+L13
+Ve[Ki4DT`4B9:hMDkJEPU^2
+!s100 ;CJ:NUgT1Uica=M8[HFCg3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Efull_adder
+Z13 w1538840489
+R1
+R2
+R3
+Z14 8D:/Documents/Programming/VHDL/Full-Adder-Register/Full_adder.vhd
+Z15 FD:/Documents/Programming/VHDL/Full-Adder-Register/Full_adder.vhd
+l0
+L7
+VS_aZ4Pd^?8mfTFBLVVJ0_3
+!s100 Y0zbZz@C006LMIL;Fk87D0
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1538941584.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/Full_adder.vhd|
+Z18 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/Full_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 full_adder 0 22 S_aZ4Pd^?8mfTFBLVVJ0_3
+l43
+L19
+V^B@7haVS=CmN>D9KC>o]E3
+!s100 YhZLCVX:DOcfb@onBm9MW3
+R6
+32
+R7
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12
+Efull_adder_register
+Z19 w1538941042
+R1
+R2
+R3
+Z20 8D:/Documents/Programming/VHDL/Full-Adder-Register/Full_Adder_Register.vhd
+Z21 FD:/Documents/Programming/VHDL/Full-Adder-Register/Full_Adder_Register.vhd
+l0
+L5
+VRWFanUU<PP0bU9ZLn7bX?1
+!s100 3`>kRa7K=6Vk;LlZT8QW93
+R6
+32
+R7
+!i10b 1
+R16
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/Full_Adder_Register.vhd|
+Z23 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/Full_Adder_Register.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 19 full_adder_register 0 22 RWFanUU<PP0bU9ZLn7bX?1
+l50
+L24
+V;2@H5]cPl0XmZM95@ahZ`3
+!s100 YRa^Y;[XcVflf^BRh:igJ0
+R6
+32
+R7
+!i10b 1
+R16
+R22
+R23
+!i113 1
+R11
+R12
+Ehalf_adder
+Z24 w1538759900
+R1
+R2
+R3
+Z25 8D:/Documents/Programming/VHDL/Full-Adder-Register/half_adder.vhd
+Z26 FD:/Documents/Programming/VHDL/Full-Adder-Register/half_adder.vhd
+l0
+L4
+VMI4PH3Wn=z1d@RVA_d1a01
+!s100 O9Ef@:2fTd?NzRa4Y6PKG3
+R6
+32
+R7
+!i10b 1
+R16
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/half_adder.vhd|
+Z28 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/half_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 half_adder 0 22 MI4PH3Wn=z1d@RVA_d1a01
+l34
+L14
+VYeU3AnEacn`_8A<6_=5eb2
+!s100 BTP];F1[9[??IeE_jg7PX1
+R6
+32
+R7
+!i10b 1
+R16
+R27
+R28
+!i113 1
+R11
+R12
+Eor_gate
+Z29 w1538763192
+R1
+R2
+R3
+Z30 8D:/Documents/Programming/VHDL/Full-Adder-Register/or_gate.vhd
+Z31 FD:/Documents/Programming/VHDL/Full-Adder-Register/or_gate.vhd
+l0
+L4
+V9::f9SD:i`zlF7?6hD:C63
+!s100 jJ>lFi7Z[eQdXiH:jBYoz2
+R6
+32
+R7
+!i10b 1
+R16
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/or_gate.vhd|
+Z33 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/or_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 7 or_gate 0 22 9::f9SD:i`zlF7?6hD:C63
+l14
+L13
+V2l891LmoR[W1S^zBk5>MG3
+!s100 H9c0DDog5GBTaVFHlYIJ;3
+R6
+32
+R7
+!i10b 1
+R16
+R32
+R33
+!i113 1
+R11
+R12
+Eregister1
+Z34 w1538938904
+R1
+R2
+R3
+Z35 8D:/Documents/Programming/VHDL/Full-Adder-Register/Register1.vhd
+Z36 FD:/Documents/Programming/VHDL/Full-Adder-Register/Register1.vhd
+l0
+L4
+V4?nDD>S1?=]m?7Vig>H@82
+!s100 @T=cSS?>MkHXX7eRS3dll2
+R6
+32
+Z37 !s110 1538941583
+!i10b 1
+R8
+Z38 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/Register1.vhd|
+Z39 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/Register1.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 9 register1 0 22 4?nDD>S1?=]m?7Vig>H@82
+l20
+L15
+Vg726147987@4hnKOlNXGG3
+!s100 K_77CnF]EM0f8kW3AjW;i1
+R6
+32
+R37
+!i10b 1
+R8
+R38
+R39
+!i113 1
+R11
+R12
+Etb_full_adder
+Z40 w1538840556
+R1
+R2
+R3
+Z41 8D:/Documents/Programming/VHDL/Full-Adder-Register/tb_Full_adder.vhd
+Z42 FD:/Documents/Programming/VHDL/Full-Adder-Register/tb_Full_adder.vhd
+l0
+L5
+VYoY`YkXQQdPEGzJVcFNj[3
+!s100 [P7EETXd>lne?JdDFQ>2z2
+R6
+32
+Z43 !s110 1538940569
+!i10b 1
+Z44 !s108 1538940569.000000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/tb_Full_adder.vhd|
+Z46 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/tb_Full_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 13 tb_full_adder 0 22 YoY`YkXQQdPEGzJVcFNj[3
+l31
+L9
+V8Vn`J6kkK5j?^?E_[_YlP1
+!s100 ]m;fWeCXGk^[IjiVoQRXK3
+R6
+32
+R43
+!i10b 1
+R44
+R45
+R46
+!i113 1
+R11
+R12
+Etb_full_adder_register
+Z47 w1538941572
+R1
+R2
+R3
+Z48 8D:/Documents/Programming/VHDL/Full-Adder-Register/tb_full_adder_registers.vhd
+Z49 FD:/Documents/Programming/VHDL/Full-Adder-Register/tb_full_adder_registers.vhd
+l0
+L6
+VTbB2WTC:hiMMLjGa8X:mF2
+!s100 TGo3h`@<09Mhkj1V4J:H=0
+R6
+32
+R7
+!i10b 1
+R16
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/tb_full_adder_registers.vhd|
+Z51 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/tb_full_adder_registers.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 22 tb_full_adder_register 0 22 TbB2WTC:hiMMLjGa8X:mF2
+l47
+L10
+V@:BHLa]]2W1:=I7f5YGUd0
+!s100 YbkU7;NYS@N4A9;e859B12
+R6
+32
+R7
+!i10b 1
+R16
+R50
+R51
+!i113 1
+R11
+R12
+Exor_gate
+Z52 w1538759574
+R1
+R2
+R3
+Z53 8D:/Documents/Programming/VHDL/Full-Adder-Register/xor_gate.vhd
+Z54 FD:/Documents/Programming/VHDL/Full-Adder-Register/xor_gate.vhd
+l0
+L4
+VX<@m@^ESRnfR2bP>6HLFE0
+!s100 FB1m_bVX[a29lV7[mPL>M3
+R6
+32
+R7
+!i10b 1
+R16
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Full-Adder-Register/xor_gate.vhd|
+Z56 !s107 D:/Documents/Programming/VHDL/Full-Adder-Register/xor_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 xor_gate 0 22 X<@m@^ESRnfR2bP>6HLFE0
+l14
+L13
+VH:8azdFQ21?A_D9SZCK[[1
+!s100 @Sg_<m>cNK<e0RCR[Z=VF3
+R6
+32
+R7
+!i10b 1
+R16
+R55
+R56
+!i113 1
+R11
+R12

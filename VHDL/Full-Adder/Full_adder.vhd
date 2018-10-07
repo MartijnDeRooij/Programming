@@ -49,14 +49,14 @@ HA1: half_adder port map (
 						cout=>s3 -- s3 is out and gate
 						);
 HA2: half_adder port map (
-						a=>s1,
-						b=>cin,
-						sum=>sumF,
-						cout=>s2
+						a=>s1, -- s1 from full to half
+						b=>cin, -- cin from full to half
+						sum=>sumF, -- output xor half2 becomes output full
+						cout=>s2 --out and half2 is s2
 						);
 OR2: or_gate port map ( 
-						inOr1=>s2,
-						inOr2=>s3,
+						inOr1=>s2, -- input s2 to OR
+						inOr2=>s3, -- input s1 to OR
 						outOr=>coutF
 						);
 end architecture behave;
