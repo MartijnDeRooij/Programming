@@ -12,14 +12,11 @@ entity full_adder_register is
 		clk		: in std_logic;
 		rst_n	: in std_logic;
 		-- space between inputs and outputs.
-		-- Full adder outputs
-		-- FA_sumF	: out std_logic; 
-		-- FA_coutF : out std_logic;
 		-- Register outputs
-		RegOut1	: out std_logic_vector(7 downto 0);
-		RegOut2	: out std_logic_vector(7 downto 0)
+		RegOut1	: out std_logic;
+		RegOut2	: out std_logic
 	);
-end full_adder_register;
+end entity full_adder_register;
 
 architecture behave of full_adder_register is
 component full_adder is
@@ -39,8 +36,8 @@ component register1 is
 		serial_in2 	: in std_logic;
 		clk			: in std_logic;
 		rst_n		: in std_logic;
-		Q1			: out std_logic_vector(7 downto 0);
-		Q2			: out std_logic_vector(7 downto 0)
+		Q1			: out std_logic;
+		Q2			: out std_logic
 		);
 end component register1;
 

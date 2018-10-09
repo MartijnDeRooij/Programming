@@ -2,26 +2,23 @@ library ieee;
 use ieee.std_logic_1164.all; -- use of std_logic
 
 -- Next is the making of the entity.
-entity full_adder_register is
+entity full_adder_flip is
 	port(
 		-- Full adder inputs
-		FA_a	: in std_logic; 
+		FA_a	: in std_logic;
 		FA_b	: in std_logic;
 		FA_cin	: in std_logic;
 		-- Register necassary inputs
 		clk		: in std_logic;
 		rst_n	: in std_logic;
 		-- space between inputs and outputs.
-		-- Full adder outputs
-		-- FA_sumF	: out std_logic; 
-		-- FA_coutF : out std_logic;
 		-- Register outputs
-		RegOut1	: out std_logic;
-		RegOut2	: out std_logic
+		Reg_SumF	: out std_logic;
+		Reg_coutF	: out std_logic
 	);
-end entity full_adder_register;
+end entity full_adder_flip;
 
-architecture behave of full_adder_register is
+architecture behave of full_adder_flip is
 component full_adder is
 	port( 
 		a		: in std_logic; -- Full adder stuff.
@@ -33,22 +30,21 @@ component full_adder is
 		);
 end component full_adder;
 
-component register1 is
+component d_flip_flop_signal is
 	port( 
-		serial_in1 	: in std_logic;
-		serial_in2 	: in std_logic;
-		clk			: in std_logic;
-		rst_n		: in std_logic;
-		Q1			: out std_logic;
-		Q2			: out std_logic
+		Data 	: in std_logic;
+		clk		: in std_logic;
+		rst_n	: in std_logic;
+		Q 		: out std_logic
 		);
-end component register1;
+end component d_flip_flop_signal;
 
-signal s1: std_logic; -- Intermediate signals
+signal s1: std_logic; -- Intermediate signals for register and FA.
 signal s2: std_logic; -- Intermediate signals
 
 begin
 
+-- cin has to be the and gate of a and x to work properly
 FA: full_adder port map (
 						a=>FA_a,
 						b=>FA_b,
@@ -56,12 +52,17 @@ FA: full_adder port map (
 						sumF=>s1,
 						coutF=>s2
 						);
-REG: register1 port map (
-						serial_in1=>s1,
-						serial_in2=>s2,
+REG: d_flip_flop_signal port map (
+						Data=>s1,
 						clk=>clk,
 						rst_n=>rst_n,
-						Q1=>RegOut1,
-						Q2=>RegOut2
+						Q=>Reg_SumF
 						);
+REG2: d_flip_flop_signal port map (
+						Data=>s2,
+						clk=>clk,
+						rst_n=>rst_n,
+						Q=>Reg_coutF
+						);
+
 end architecture behave;

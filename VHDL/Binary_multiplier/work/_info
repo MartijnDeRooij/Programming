@@ -1,0 +1,402 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/Documents/Programming/VHDL/Full-Adder-Register
+Eand_gate
+Z0 w1538982490
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/Documents/Programming/VHDL/Binary_multiplier
+Z4 8D:/Documents/Programming/VHDL/Binary_multiplier/and_gate.vhd
+Z5 FD:/Documents/Programming/VHDL/Binary_multiplier/and_gate.vhd
+l0
+L4
+V=iI0?fjBZ]<F:@g?3G>Ye2
+!s100 ?^z>Tl8]O;_Z7:JhJ@Ddl0
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1539077946
+!i10b 1
+Z8 !s108 1539077946.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/and_gate.vhd|
+Z10 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/and_gate.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 =iI0?fjBZ]<F:@g?3G>Ye2
+l14
+L13
+Ve[Ki4DT`4B9:hMDkJEPU^2
+!s100 ;CJ:NUgT1Uica=M8[HFCg3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebinary_multiplier
+Z13 w1539077614
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8D:/Documents/Programming/VHDL/Binary_multiplier/binary_multiplier.vhd
+Z16 FD:/Documents/Programming/VHDL/Binary_multiplier/binary_multiplier.vhd
+l0
+L14
+Vi19n;FPMzoMV:@ZVa31kS2
+!s100 koC3Dm9doW2SKeN_c;0KW0
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/binary_multiplier.vhd|
+Z18 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/binary_multiplier.vhd|
+!i113 1
+R11
+R12
+Abehave
+R14
+R1
+R2
+DEx4 work 17 binary_multiplier 0 22 i19n;FPMzoMV:@ZVa31kS2
+l90
+L26
+V?31Rk<`6VNk]L[VLO^:0]0
+!s100 Ud5a><A1jBPhCj:A<XG@m0
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Ed_flip_flop
+Z19 w1538992432
+R1
+R2
+R3
+Z20 8D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop.vhd
+Z21 FD:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop.vhd
+l0
+L9
+VlXcmIS5MLQ40_8mhO4Nn:3
+!s100 :AgQK:`mkZ_oRB<4NjZL^1
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop.vhd|
+Z23 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+DEx4 work 11 d_flip_flop 0 22 lXcmIS5MLQ40_8mhO4Nn:3
+l23
+L22
+VeCcc_LL=1VoRTgP=Ml@4W3
+!s100 ?jVO_f2f>XL^m=h:8hF:A1
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Ed_flip_flop_signal
+Z24 w1539068434
+R1
+R2
+R3
+Z25 8D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop_signal.vhd
+Z26 FD:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop_signal.vhd
+l0
+L9
+V5[]:1ZfgRmU1_HRRV2^DU3
+!s100 7:NVSY15BUl^Gel`Xzn?`2
+R6
+32
+R7
+!i10b 1
+R8
+Z27 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop_signal.vhd|
+Z28 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/d_flip_flop_signal.vhd|
+!i113 1
+R11
+R12
+Abehavior
+R1
+R2
+Z29 DEx4 work 18 d_flip_flop_signal 0 22 5[]:1ZfgRmU1_HRRV2^DU3
+l19
+L18
+Z30 VMZUe]7HiYj1c<[5_44ldI3
+Z31 !s100 9OVUnH?izNON2zOgfnmDU3
+R6
+32
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Efull_adder
+Z32 w1538982559
+R1
+R2
+R3
+Z33 8D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder.vhd
+Z34 FD:/Documents/Programming/VHDL/Binary_multiplier/Full_adder.vhd
+l0
+L8
+V]0@iRl<g2NMFX0NfIl`VQ0
+!s100 h8ElNkL5SYPJ7DQ5=UAYI2
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder.vhd|
+Z36 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 full_adder 0 22 ]0@iRl<g2NMFX0NfIl`VQ0
+l44
+L20
+Vem]z3AWQZc_M;Z998J?KC0
+!s100 nXbTFlOIJm3A=O72eFg]S1
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Efull_adder_flip
+Z37 w1539071896
+R1
+R2
+R3
+Z38 8D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder_flip.vhd
+Z39 FD:/Documents/Programming/VHDL/Binary_multiplier/Full_adder_flip.vhd
+l0
+L5
+VFP?Y_F;JjiRfbQ_XLFKN^0
+!s100 =_B]5_7=f]nl4N4e<f6O;2
+R6
+32
+R7
+!i10b 1
+R8
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder_flip.vhd|
+Z41 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/Full_adder_flip.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 15 full_adder_flip 0 22 FP?Y_F;JjiRfbQ_XLFKN^0
+l63
+L24
+VoeIOMH?n8[icZ^IUi62QN1
+!s100 6zAgzN8POQoHcLOG7ZnE12
+R6
+32
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Ehalf_adder
+Z42 w1538982534
+R1
+R2
+R3
+Z43 8D:/Documents/Programming/VHDL/Binary_multiplier/half_adder.vhd
+Z44 FD:/Documents/Programming/VHDL/Binary_multiplier/half_adder.vhd
+l0
+L4
+VMI4PH3Wn=z1d@RVA_d1a01
+!s100 O9Ef@:2fTd?NzRa4Y6PKG3
+R6
+32
+R7
+!i10b 1
+R8
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/half_adder.vhd|
+Z46 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/half_adder.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 10 half_adder 0 22 MI4PH3Wn=z1d@RVA_d1a01
+l34
+L14
+VYeU3AnEacn`_8A<6_=5eb2
+!s100 BTP];F1[9[??IeE_jg7PX1
+R6
+32
+R7
+!i10b 1
+R8
+R45
+R46
+!i113 1
+R11
+R12
+Eor_gate
+Z47 w1538982457
+R1
+R2
+R3
+Z48 8D:/Documents/Programming/VHDL/Binary_multiplier/or_gate.vhd
+Z49 FD:/Documents/Programming/VHDL/Binary_multiplier/or_gate.vhd
+l0
+L4
+V9::f9SD:i`zlF7?6hD:C63
+!s100 jJ>lFi7Z[eQdXiH:jBYoz2
+R6
+32
+R7
+!i10b 1
+R8
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/or_gate.vhd|
+Z51 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/or_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 7 or_gate 0 22 9::f9SD:i`zlF7?6hD:C63
+l14
+L13
+V2l891LmoR[W1S^zBk5>MG3
+!s100 H9c0DDog5GBTaVFHlYIJ;3
+R6
+32
+R7
+!i10b 1
+R8
+R50
+R51
+!i113 1
+R11
+R12
+Etb_binary_multiplier
+Z52 w1539077943
+R1
+R2
+R3
+Z53 8D:/Documents/Programming/VHDL/Binary_multiplier/tb_binary_multiplier.vhd
+Z54 FD:/Documents/Programming/VHDL/Binary_multiplier/tb_binary_multiplier.vhd
+l0
+L5
+V21f1CmWhCcoaVT;lW>cVR3
+!s100 QB3cmfN=>F^Dd]YLadJ=n0
+R6
+32
+R7
+!i10b 1
+R8
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/tb_binary_multiplier.vhd|
+Z56 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/tb_binary_multiplier.vhd|
+!i113 1
+R11
+R12
+Abehave
+R1
+R2
+DEx4 work 20 tb_binary_multiplier 0 22 21f1CmWhCcoaVT;lW>cVR3
+l34
+L9
+VWA4d?Q9dcSV6Y_ag6PSb52
+!s100 TJ<9O60c0?^<Zj9H55zc53
+R6
+32
+R7
+!i10b 1
+R8
+R55
+R56
+!i113 1
+R11
+R12
+Exor_gate
+Z57 w1538982477
+R1
+R2
+R3
+Z58 8D:/Documents/Programming/VHDL/Binary_multiplier/xor_gate.vhd
+Z59 FD:/Documents/Programming/VHDL/Binary_multiplier/xor_gate.vhd
+l0
+L4
+VX<@m@^ESRnfR2bP>6HLFE0
+!s100 FB1m_bVX[a29lV7[mPL>M3
+R6
+32
+R7
+!i10b 1
+R8
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Documents/Programming/VHDL/Binary_multiplier/xor_gate.vhd|
+Z61 !s107 D:/Documents/Programming/VHDL/Binary_multiplier/xor_gate.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 xor_gate 0 22 X<@m@^ESRnfR2bP>6HLFE0
+l14
+L13
+VH:8azdFQ21?A_D9SZCK[[1
+!s100 @Sg_<m>cNK<e0RCR[Z=VF3
+R6
+32
+R7
+!i10b 1
+R8
+R60
+R61
+!i113 1
+R11
+R12

@@ -1,0 +1,29 @@
+-- VHDL code for D Flip FLop with Asynchronous Reset 
+-- With Rising edge D flip flop
+-- Made by: Martijn de Rooij
+
+-- libraries:
+library IEEE;
+use IEEE.std_logic_1164.all; -- standard std_logic library
+
+entity d_flip_flop_signal is
+	port(	
+		serial_in 	: in std_logic;
+		clk			: in std_logic;
+		rst_n		: in std_logic;
+		Q			: out std_logic
+		);
+end entity d_flip_flop_signal;
+
+architecture behavior of d_flip_flop_signal is
+begin
+	Output: process (rst_n, clk) is
+	begin
+		if(rst_n = '1') then
+			Q <= '0';
+		elsif (rising_edge(clk)) then
+   			Q <= serial_in;
+  		end if;
+	end process Output;
+
+end architecture behavior;
