@@ -5,11 +5,11 @@ You can also upload existing files from your computer using the instructions bel
 
 
 Git global setup
-git config --global user.name "Martijn de Rooij"
-git config --global user.email "martijn.de.rooij.1996@gmail.com"
+git config --global user.name "Marty"
+git config --global user.email "EMAIL"
 
 Create a new repository
-git clone git@gitlab.com:Marty_253/gitlab-commands.git
+git clone https://github.com/Marty253/Programming.git
 cd gitlab-commands
 git switch -c main
 touch README.md
@@ -20,7 +20,7 @@ git push -u origin main
 Push an existing folder
 cd existing_folder
 git init --initial-branch=main
-git remote add origin git@gitlab.com:Marty_253/gitlab-commands.git
+git remote add origin https://github.com/Marty253/Programming.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
@@ -28,6 +28,6 @@ git push -u origin main
 Push an existing Git repository
 cd existing_repo
 git remote rename origin old-origin
-git remote add origin git@gitlab.com:Marty_253/gitlab-commands.git
+git remote add origin https://github.com/Marty253/Programming.git
 git push -u origin --all
 git push -u origin --tags
