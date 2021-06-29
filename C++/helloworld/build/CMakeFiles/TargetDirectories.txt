@@ -1,3 +1,0 @@
-C:/Users/Robert/Documents/Documents-Martijn/Technology/Programming/Programming/C++/helloworld/build/CMakeFiles/helloworld.x.dir
-C:/Users/Robert/Documents/Documents-Martijn/Technology/Programming/Programming/C++/helloworld/build/CMakeFiles/edit_cache.dir
-C:/Users/Robert/Documents/Documents-Martijn/Technology/Programming/Programming/C++/helloworld/build/CMakeFiles/rebuild_cache.dir
