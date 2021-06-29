@@ -1,3 +1,4 @@
+# Example intervieuw problem. This is how to change a n*m matrix towards something you want. 
 Squarematrix = [[1,0,0,0,0,0],
                 [0,1,0,1,1,1],
                 [0,0,1,0,1,0],
@@ -6,10 +7,11 @@ Squarematrix = [[1,0,0,0,0,0],
                 [1,0,0,0,0,1],
                 ]
 
-def is_border(i, j, matrix):
+# check if you are the border of the matric to determine if you need to a depth first recursion. 
+def is_border(i, j, matrix): 
     if (i == 0) or (i == len(matrix) - 1) or (j == 0) or (j == len(matrix) - 1):
         return True
-    return False # Do nothing
+    return False 
 
 def is_outside_matrix(new_i, new_j, matrix):
     if new_i < 0 or new_j < 0 or new_i > len(matrix) - 1 or new_j > len(matrix[0]) - 1:
