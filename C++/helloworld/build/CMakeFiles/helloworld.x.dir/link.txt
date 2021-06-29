@@ -1,0 +1,3 @@
+C:\Users\Robert\Documents\Programs-Martijn\Cmake\cmake-3.21.0-rc1-windows-x86_64\bin\cmake.exe -E rm -f CMakeFiles\helloworld.x.dir/objects.a
+C:\Users\Robert\Documents\Programs-Martijn\MiniGW\mingw64\bin\ar.exe qc CMakeFiles\helloworld.x.dir/objects.a @CMakeFiles\helloworld.x.dir\objects1.rsp
+C:\Users\Robert\Documents\Programs-Martijn\MiniGW\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\helloworld.x.dir/objects.a -Wl,--no-whole-archive -o helloworld.x.exe -Wl,--out-implib,libhelloworld.x.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\helloworld.x.dir\linklibs.rsp
