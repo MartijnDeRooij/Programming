@@ -25,6 +25,7 @@ void Transpose(int A[][20], int B[][20],int N, int M)
 }
 
 
+
 // type name [elements];
 int arr[] = { 16, 2, 77, 40, 12071 }; // Array
 array<int,5> myarray {16, 2, 77, 40, 12071 }; // array from library
